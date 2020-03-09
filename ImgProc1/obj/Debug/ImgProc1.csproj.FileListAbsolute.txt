@@ -1,0 +1,24 @@
+D:\Informatika\Semester 7\Pengolahan Citra Digital\1\ImgProc1\ImgProc1\bin\Debug\ImgProc1.exe.config
+D:\Informatika\Semester 7\Pengolahan Citra Digital\1\ImgProc1\ImgProc1\bin\Debug\ImgProc1.exe
+D:\Informatika\Semester 7\Pengolahan Citra Digital\1\ImgProc1\ImgProc1\bin\Debug\ImgProc1.pdb
+D:\Informatika\Semester 7\Pengolahan Citra Digital\1\ImgProc1\ImgProc1\obj\Debug\ImgProc1.csprojResolveAssemblyReference.cache
+D:\Informatika\Semester 7\Pengolahan Citra Digital\1\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Form1.resources
+D:\Informatika\Semester 7\Pengolahan Citra Digital\1\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Properties.Resources.resources
+D:\Informatika\Semester 7\Pengolahan Citra Digital\1\ImgProc1\ImgProc1\obj\Debug\ImgProc1.csproj.GenerateResource.Cache
+D:\Informatika\Semester 7\Pengolahan Citra Digital\1\ImgProc1\ImgProc1\obj\Debug\ImgProc1.csproj.CoreCompileInputs.cache
+D:\Informatika\Semester 7\Pengolahan Citra Digital\1\ImgProc1\ImgProc1\obj\Debug\ImgProc1.exe
+D:\Informatika\Semester 7\Pengolahan Citra Digital\1\ImgProc1\ImgProc1\obj\Debug\ImgProc1.pdb
+D:\Informatika\Semester 7\Pengolahan Citra Digital\1\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Tentang.resources
+D:\Informatika\Semester 7\Pengolahan Citra Digital\1\ImgProc1\ImgProc1\obj\Debug\ImgProc1.contrast.resources
+D:\Unduhan\Pengolahan Citra\TI-4G Tugas Pratikum Minggu 2\Tugas Week 2 PCD\Tugas Week 2 PCD\Tugas Praktikum 2_1641720060_TI-4G_Youngky Pratama A\ImgProc1\ImgProc1\bin\Debug\ImgProc1.exe.config
+D:\Unduhan\Pengolahan Citra\TI-4G Tugas Pratikum Minggu 2\Tugas Week 2 PCD\Tugas Week 2 PCD\Tugas Praktikum 2_1641720060_TI-4G_Youngky Pratama A\ImgProc1\ImgProc1\bin\Debug\ImgProc1.exe
+D:\Unduhan\Pengolahan Citra\TI-4G Tugas Pratikum Minggu 2\Tugas Week 2 PCD\Tugas Week 2 PCD\Tugas Praktikum 2_1641720060_TI-4G_Youngky Pratama A\ImgProc1\ImgProc1\bin\Debug\ImgProc1.pdb
+D:\Unduhan\Pengolahan Citra\TI-4G Tugas Pratikum Minggu 2\Tugas Week 2 PCD\Tugas Week 2 PCD\Tugas Praktikum 2_1641720060_TI-4G_Youngky Pratama A\ImgProc1\ImgProc1\obj\Debug\ImgProc1.csprojAssemblyReference.cache
+D:\Unduhan\Pengolahan Citra\TI-4G Tugas Pratikum Minggu 2\Tugas Week 2 PCD\Tugas Week 2 PCD\Tugas Praktikum 2_1641720060_TI-4G_Youngky Pratama A\ImgProc1\ImgProc1\obj\Debug\ImgProc1.contrast.resources
+D:\Unduhan\Pengolahan Citra\TI-4G Tugas Pratikum Minggu 2\Tugas Week 2 PCD\Tugas Week 2 PCD\Tugas Praktikum 2_1641720060_TI-4G_Youngky Pratama A\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Form1.resources
+D:\Unduhan\Pengolahan Citra\TI-4G Tugas Pratikum Minggu 2\Tugas Week 2 PCD\Tugas Week 2 PCD\Tugas Praktikum 2_1641720060_TI-4G_Youngky Pratama A\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Tentang.resources
+D:\Unduhan\Pengolahan Citra\TI-4G Tugas Pratikum Minggu 2\Tugas Week 2 PCD\Tugas Week 2 PCD\Tugas Praktikum 2_1641720060_TI-4G_Youngky Pratama A\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Properties.Resources.resources
+D:\Unduhan\Pengolahan Citra\TI-4G Tugas Pratikum Minggu 2\Tugas Week 2 PCD\Tugas Week 2 PCD\Tugas Praktikum 2_1641720060_TI-4G_Youngky Pratama A\ImgProc1\ImgProc1\obj\Debug\ImgProc1.csproj.GenerateResource.cache
+D:\Unduhan\Pengolahan Citra\TI-4G Tugas Pratikum Minggu 2\Tugas Week 2 PCD\Tugas Week 2 PCD\Tugas Praktikum 2_1641720060_TI-4G_Youngky Pratama A\ImgProc1\ImgProc1\obj\Debug\ImgProc1.csproj.CoreCompileInputs.cache
+D:\Unduhan\Pengolahan Citra\TI-4G Tugas Pratikum Minggu 2\Tugas Week 2 PCD\Tugas Week 2 PCD\Tugas Praktikum 2_1641720060_TI-4G_Youngky Pratama A\ImgProc1\ImgProc1\obj\Debug\ImgProc1.exe
+D:\Unduhan\Pengolahan Citra\TI-4G Tugas Pratikum Minggu 2\Tugas Week 2 PCD\Tugas Week 2 PCD\Tugas Praktikum 2_1641720060_TI-4G_Youngky Pratama A\ImgProc1\ImgProc1\obj\Debug\ImgProc1.pdb
